@@ -1,0 +1,22 @@
+kind: EdgeCoreConfig
+apiVersion: edge.kubeedge.io/v1alpha1
+modules:
+  edgeHub:
+    websocket:
+      url: ws://127.0.0.1:10000/e632aba927ea4ac2b575ec1603d56f10/edge
+    controller:
+      protocol: websocket
+  edgeD:
+    runtimeType: docker
+    imagePullSecrets: []
+  metamanager:
+    enable: true
+  edged:
+    registerNodeNamespace: default
+    nodeStatusUpdateFrequency: 10
+    dockerAddress: unix:///var/run/docker.sock
+    runtimeEndpoint: unix:///var/run/containerd/containerd.sock
+    imageServiceEndpoint: unix:///var/run/containerd/containerd.sock
+kubeAPIConfig:
+  kubeConfig: "/mnt/d/mlops/kubeconfig/kubeconfig"
+  master: ""

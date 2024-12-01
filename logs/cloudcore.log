@@ -1,0 +1,60 @@
+[Sat, Nov 30, 2024  9:45:30 PM] Starting CloudCore
+[Sat, Nov 30, 2024  9:45:30 PM] CloudCore started
+[Sat, Nov 30, 2024  9:45:57 PM] Starting CloudCore
+[Sat, Nov 30, 2024  9:45:57 PM] CloudCore started
+[Sat Nov 30 16:39:43 UTC 2024] Starting CloudCore
+[Sat Nov 30 16:39:43 UTC 2024] CloudCore started
+[Sat Nov 30 16:43:54 UTC 2024] CloudCore configuration not found
+[Sat Nov 30 16:44:05 UTC 2024] Creating /var/lib/kubeedge directory
+[Sat Nov 30 16:44:05 UTC 2024] Directory /var/lib/kubeedge created
+[Sat Nov 30 16:44:05 UTC 2024] Starting CloudCore
+[Sat Nov 30 16:44:05 UTC 2024] CloudCore started
+[Sat Nov 30 16:45:09 UTC 2024] Starting CloudCore
+[Sat Nov 30 16:45:09 UTC 2024] CloudCore started
+[Sat Nov 30 17:01:57 UTC 2024] Starting CloudCore
+[Sat Nov 30 17:01:57 UTC 2024] CloudCore started
+[Sat Nov 30 17:02:34 UTC 2024] Starting CloudCore
+[Sat Nov 30 17:02:34 UTC 2024] CloudCore started
+[Sat Nov 30 17:48:45 UTC 2024] Starting CloudCore
+[Sat Nov 30 17:48:45 UTC 2024] CloudCore started
+[Sat Nov 30 18:42:41 UTC 2024] Starting CloudCore
+[Sat Nov 30 18:42:41 UTC 2024] CloudCore started
+[Sat Nov 30 18:43:33 UTC 2024] Starting CloudCore
+[Sat Nov 30 18:43:33 UTC 2024] CloudCore started
+[Sat Nov 30 18:43:39 UTC 2024] Starting CloudCore
+[Sat Nov 30 18:43:39 UTC 2024] CloudCore started
+[Sat Nov 30 18:55:07 UTC 2024] Starting CloudCore
+[Sat Nov 30 18:55:07 UTC 2024] CloudCore started
+[Sat Nov 30 18:55:38 UTC 2024] Starting CloudCore
+[Sat Nov 30 18:55:38 UTC 2024] CloudCore started
+[Sat Nov 30 18:56:31 UTC 2024] Starting CloudCore
+[Sat Nov 30 18:56:31 UTC 2024] CloudCore started
+[Sat Nov 30 19:03:15 UTC 2024] Starting CloudCore
+[Sat Nov 30 19:03:15 UTC 2024] CloudCore started
+[Sat Nov 30 19:05:57 UTC 2024] Starting CloudCore
+[Sat Nov 30 19:05:57 UTC 2024] CloudCore started
+[Sat Nov 30 19:10:33 UTC 2024] Starting CloudCore
+[Sat Nov 30 19:10:33 UTC 2024] CloudCore started
+[Sat Nov 30 19:15:01 UTC 2024] Starting CloudCore
+[Sat Nov 30 19:15:01 UTC 2024] CloudCore started
+[Sat Nov 30 19:17:42 UTC 2024] Starting CloudCore
+[Sat Nov 30 19:17:42 UTC 2024] CloudCore started
+[Sat Nov 30 19:20:06 UTC 2024] Starting CloudCore
+[Sat Nov 30 19:20:06 UTC 2024] CloudCore started
+[Sun, Dec  1, 2024  9:08:16 AM] Creating /var/lib/kubeedge directory
+[Sun Dec  1 03:39:03 UTC 2024] Starting CloudCore
+[Sun Dec  1 03:39:03 UTC 2024] CloudCore started
+[Sun Dec  1 03:41:32 UTC 2024] Starting CloudCore
+[Sun Dec  1 03:41:32 UTC 2024] CloudCore started
+[Sun Dec  1 03:43:21 UTC 2024] Starting CloudCore
+[Sun Dec  1 03:43:21 UTC 2024] CloudCore started
+[Sun Dec  1 03:48:49 UTC 2024] Stopping currently running CloudCore process
+[Sun Dec  1 03:49:06 UTC 2024] Stopping currently running CloudCore process
+[Sun Dec  1 03:50:08 UTC 2024] Stopping currently running CloudCore process
+[Sun Dec  1 03:56:55 UTC 2024] Stopping currently running CloudCore process
+[Sun Dec  1 04:00:57 UTC 2024] Stopping currently running CloudCore process
+[Sun Dec  1 04:02:54 UTC 2024] Stopping currently running CloudCore process
+[Sun Dec  1 04:04:41 UTC 2024] Stopping currently running CloudCore process
+[Sun Dec  1 04:07:20 UTC 2024] CloudCore process detected. Stopping it now.
+[Sun Dec  1 04:15:35 UTC 2024] CloudCore process detected. Stopping it now.
+[Sun Dec  1 04:21:52 UTC 2024] CloudCore process detected. Stopping it now.
